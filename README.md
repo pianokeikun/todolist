@@ -7,8 +7,9 @@
 
  
 # Features
- 
-"hoge"のセールスポイントや差別化などを説明する
+
+ レスポンシブデザイン。
+
  
 # Requirement
  
@@ -27,7 +28,7 @@ brew install mysql
 
  
 ```bash
-git clone https://github.com/hoge/~
+git clone https://github.com/pianokeikun/todolist.git
 ```
  
 # Note
